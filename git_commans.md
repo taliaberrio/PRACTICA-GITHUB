@@ -6,7 +6,7 @@ git clone: Descarga una copia completa desde internet para trabajar en una compu
 
 git pull: Actualiza un repositorio local con los cambios más recientes del repositorio remoto y fusionarlo automáticamente con el local.
 
-git checkout: Cambia entre diferentes espaios de trabajos o ramas para trabajar en proyetos separados
+git checkout: Cambia entre diferentes espaios de trabajos o ramas para trabajar en proyetos separados.
 
 git log: Muestra el historial de commits en un repositorio de git.
 
